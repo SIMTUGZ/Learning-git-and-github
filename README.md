@@ -1,4 +1,4 @@
-# Git and GitHub — Basics
+# Git and GitHub
 
 This repository contains a short, beginner-friendly guide to the core Git and GitHub workflow and common commands.
 
