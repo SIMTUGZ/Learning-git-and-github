@@ -10,7 +10,9 @@ After learning these basic commands, you will gain a better understanding of Git
 
 Download and install [Git](https://git-scm.com/install/).
 
-1. Open git bash
+1. Open git bash.
 2. Check if the Git program is properly install.
 
         git --version
+
+3. Now you can proceed to create you're first git repository.
